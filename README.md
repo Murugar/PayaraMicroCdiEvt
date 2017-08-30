@@ -1,5 +1,5 @@
 # PayaraMicroCdiEvt
-Payara Micro Cdi  
+Payara Micro CDI  
 
 mvn clean install  
 
