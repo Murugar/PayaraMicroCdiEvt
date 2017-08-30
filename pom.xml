@@ -17,7 +17,7 @@
 
         <javaee.version>7.0</javaee.version>
         <payara-api.version>4.1.2.173</payara-api.version>
-        <payara.version>4.1.2.172</payara.version>
+        <payara.version>4.1.2.173</payara.version>
         <lombok.version>1.16.12</lombok.version>
 
        
